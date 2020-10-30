@@ -1,0 +1,30 @@
+[
+  {
+    "prenom": "Emmanuel",
+    "nom": "Henri",
+    "email": "me@me.com",
+    "compagnie": "Linkedin",
+    "notes": "voici mes notes"
+  },
+    {
+    "prenom": "Manny",
+    "nom": "Henri",
+    "email": "me2@me.com",
+    "compagnie": "Linkedin",
+    "notes": "voici mes notes aussi"
+  },
+    {
+    "prenom": "Kim",
+    "nom": "Henri",
+    "email": "me3@me.com",
+    "compagnie": "Linkedin",
+    "notes": "voici mes notes 3"
+  },
+    {
+    "prenom": "Emmanuel",
+    "nom": "Bazouk",
+    "email": "me5@me.com",
+    "compagnie": "Linkedin",
+    "notes": "voici mes notes 4"
+  }
+]
